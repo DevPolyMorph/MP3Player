@@ -13,8 +13,7 @@ int main() {
   // WARNING:
   // Note that this sample driver does not test arguments representing
   // negative song sizes, any of the getter functions, playSong, or any of
-  // the overloaded ==, >, or < operators. However, the driver I use for
-  // grading is likely to test all of these things!
+  // the overloaded ==, >, or < operators.
 
   Song t0;
   cout << "blank song: " << t0.toString() << endl;
