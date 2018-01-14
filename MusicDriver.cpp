@@ -30,8 +30,7 @@ int main() {
   // WARNING:
   // Note that this sample driver does not test playing a song, songs that
   // share the same name but different artists, attempting to play or remove
-  // non-existant songs, the resize() function, etc. However, the driver I
-  // use for grading is likely to test all of these things!
+  // non-existant songs, the resize() function, etc.
 
   MP3Player mp3(5, 10.0);
 
